@@ -2,7 +2,7 @@
   "name": "review-knowledge",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://minhlq-0928.github.io/deploy-github/",
+  "homepage": "https://tietnhathung.github.io/back-review-knowledge/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",

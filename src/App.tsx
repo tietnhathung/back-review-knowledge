@@ -13,7 +13,7 @@ function App() {
 
     const currentQuestion: TQuestions = useMemo(() => {
         return questions[questionIndex];
-    }, [questions, questionIndex])
+    }, [questionIndex])
 
     const correctAnswer = useMemo(() => {
         const correctAnswer = `answer${currentQuestion.correctAnswer}`;
