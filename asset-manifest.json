@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/back-review-knowledge/static/css/main.bfb854c6.css",
+    "main.js": "/back-review-knowledge/static/js/main.ec529f5a.js",
+    "index.html": "/back-review-knowledge/index.html",
+    "main.bfb854c6.css.map": "/back-review-knowledge/static/css/main.bfb854c6.css.map",
+    "main.ec529f5a.js.map": "/back-review-knowledge/static/js/main.ec529f5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfb854c6.css",
+    "static/js/main.ec529f5a.js"
+  ]
+}
