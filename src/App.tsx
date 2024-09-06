@@ -16,7 +16,7 @@ function App() {
     }, [questionIndex])
 
     const correctAnswer = useMemo(() => {
-        const correctAnswer = `answer${currentQuestion.correctAnswer}`;
+        const correctAnswer = `answer${currentQuestion?.correctAnswer ?? 1}`;
         return currentQuestion[correctAnswer as keyof TQuestions];
     }, [currentQuestion])
 
